@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Ex_Files_RESTful_Web_APIs_Django/Ex_Files_RESTful_Web_APIs_Django/Exercise Files/01_02_end/.idea/01_02_end.iml" filepath="$USER_HOME$/Downloads/Ex_Files_RESTful_Web_APIs_Django/Ex_Files_RESTful_Web_APIs_Django/Exercise Files/01_02_end/.idea/01_02_end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codingChallenge.iml" filepath="$PROJECT_DIR$/.idea/codingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" filepath="$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" />
+    </modules>
+  </component>
+</project>
