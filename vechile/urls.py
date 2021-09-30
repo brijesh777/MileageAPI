@@ -1,6 +1,6 @@
 from django.urls import path
 from .api import *
-from rest_framework.routers import DefaultRouter
+
 
 urlpatterns = [
 
